@@ -1,0 +1,66 @@
+[global_config]
+  extra_styling = False
+  title_transmit_bg_color = "#c64600"
+  title_receive_bg_color = "#2ec27e"
+  title_inactive_bg_color = "#77767b"
+  inactive_color_offset = 1.0
+  title_use_system_font = False
+  title_font = Bitstream Vera Sans Mono 12
+[keybindings]
+  zoom_in = <Primary>equal
+  new_tab = <Primary>t
+  go_next = ""
+  go_prev = ""
+  go_up = <Primary>Up
+  go_down = <Primary>Down
+  go_left = <Primary>Left
+  go_right = <Primary>Right
+  rotate_cw = ""
+  rotate_ccw = ""
+  split_horiz = <Primary><Shift>o
+  split_vert = <Primary>percent
+  close_term = <Primary>w
+  copy = <Primary>c
+  paste = <Primary>v
+  toggle_scrollbar = ""
+  search = <Primary>f
+  close_window = <Primary>q
+  move_tab_right = ""
+  move_tab_left = ""
+  toggle_zoom = ""
+  scaled_zoom = ""
+  reset = ""
+  reset_clear = ""
+  hide_window = ""
+  group_all = ""
+  ungroup_all = ""
+  group_tab = ""
+  ungroup_tab = ""
+  new_window = <Primary>n
+  new_terminator = ""
+  insert_number = ""
+  insert_padded = ""
+  edit_window_title = ""
+  edit_tab_title = ""
+  edit_terminal_title = ""
+  layout_launcher = ""
+[profiles]
+  [[default]]
+    background_color = "#342f41"
+    background_darkness = 0.74
+    cursor_color = "#aaaaaa"
+    font = Bitstream Vera Sans Mono 11
+    foreground_color = "#ffffff"
+    use_system_font = False
+    use_theme_colors = True
+    bold_is_bright = True
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+      profile = default
+[plugins]
