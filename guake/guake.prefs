@@ -8,6 +8,7 @@ gtk-theme-name='Yaru-blue'
 gtk-use-system-default-theme=true
 hide-tabs-if-one-tab=false
 history-size=1000
+lazy-losefocus=false
 max-tab-name-length=100
 mouse-display=true
 open-tab-cwd=true
@@ -28,10 +29,10 @@ use-trayicon=true
 window-halignment=0
 window-height=50
 window-losefocus=false
-window-ontop=true
+window-ontop=false
 window-refocus=false
 window-tabbar=true
-window-width=100
+window-width=90
 
 [keybindings/global]
 show-focus='disabled'
@@ -64,7 +65,7 @@ toggle-hide-on-lose-focus='disabled'
 toggle-transparency='disabled'
 
 [style/background]
-transparency=94
+transparency=90
 
 [style/font]
 allow-bold=true
