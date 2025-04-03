@@ -1,7 +1,7 @@
 # wejoey-config
 
 ```shell
-directory=/home/jlessard/Projects/wejoey/wejoey.config
+directory=/home/wejoey/git/wejoey.config
 echo directory: $directory
 
 ln --symbolic "${directory}"/ghostty/config ~/.config/ghostty/config || echo "File already exists"
