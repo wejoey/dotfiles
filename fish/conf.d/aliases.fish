@@ -4,6 +4,6 @@ alias vim nvim
 
 alias gitpfwl 'git push --force-with-lease'
 alias gitca 'git commit --amend'
-alias gitccb 'git branch --show-current | xclip -selection clipboard -rmlastnl'
+alias gitccb 'git branch --show-current | pbcopy'
 alias gitlog 'git log --oneline --graph --all --decorate'
 alias gitdiff 'git difftool -y'
