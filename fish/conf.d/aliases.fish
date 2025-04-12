@@ -1,4 +1,4 @@
-alias ll 'exa --long --all --time-style=long-iso --no-user --classify'
+alias ll 'eza --long --all --time-style=long-iso --no-user --classify'
 alias python python3
 alias vim nvim
 
