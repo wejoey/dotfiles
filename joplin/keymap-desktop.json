@@ -1,0 +1,26 @@
+[
+  {
+    "command": "textCode",
+    "accelerator": "Cmd+E"
+  },
+  {
+    "command": "toggleExternalEditing",
+    "accelerator": null
+  },
+  {
+    "command": "editor.deleteLine",
+    "accelerator": null
+  },
+  {
+    "command": "editor.duplicateLine",
+    "accelerator": "Cmd+D"
+  },
+  {
+    "command": "jop-freehand-drawing-jsdraw-plugin-insertDrawing",
+    "accelerator": null
+  },
+  {
+    "command": "CreateBackup",
+    "accelerator": null
+  }
+]
