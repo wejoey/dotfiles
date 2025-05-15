@@ -13,4 +13,4 @@ disabled = false
 style = 'bold yellow'
 
 [directory]
-read_only = "(RO)"
+read_only = " (RO)"
