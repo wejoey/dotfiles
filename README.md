@@ -3,7 +3,7 @@
 ## Symbolic links
 
 ```shell
-directory=~/Projects/wejoey/dotfiles
+directory=~/git/dotfiles
 echo directory: $directory
 
 mkdir -p ~/.config/nvim/
