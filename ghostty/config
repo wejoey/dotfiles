@@ -1,1 +1,5 @@
 theme = Dark Modern
+#font-family = "JetBrainsMono Nerd Font"
+#theme = "Catppuccin Mocha"
+background-opacity = 0.96
+macos-titlebar-style = "transparent"
