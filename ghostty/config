@@ -1,6 +1,7 @@
-background-opacity = 0.94
 theme = Dark Modern
+background-opacity = 0.94
 
+# key bindings
 keybind = super+arrow_down=goto_split:down
 keybind = super+arrow_left=goto_split:left
 keybind = super+arrow_right=goto_split:right
