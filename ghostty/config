@@ -1,5 +1,9 @@
 theme = Dark Modern
 background-opacity = 0.94
+
+split-divider-color = "#666699"
+unfocused-split-fill = "#444466"
+
 macos-option-as-alt = true
 
 # key bindings
