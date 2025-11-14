@@ -1,5 +1,6 @@
 theme = Dark Modern
 background-opacity = 0.94
+macos-option-as-alt = true
 
 # key bindings
 keybind = super+arrow_down=goto_split:down
