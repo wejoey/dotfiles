@@ -4,7 +4,7 @@ background-opacity = 0.94
 split-divider-color = "#666699"
 unfocused-split-fill = "#444466"
 
-macos-option-as-alt = true
+macos-option-as-alt = left
 
 # key bindings
 keybind = super+arrow_down=goto_split:down
