@@ -12,3 +12,4 @@ alias gitccb 'git branch --show-current | pbcopy'
 alias gitlog 'git log --oneline --graph --all --decorate'
 alias gitt 'git status'
 alias gitfa 'git fetch --all'
+alias gitstp 'git stash push && git pull'  # [S]tash [T]hen [P]ull
