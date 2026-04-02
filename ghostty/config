@@ -6,6 +6,14 @@ unfocused-split-fill = "#444466"
 
 macos-option-as-alt = left
 
+# Save and restore the last session
+window-save-state = always
+shell-integration = detect
+shell-integration-features = path
+window-inherit-working-directory = true
+tab-inherit-working-directory = true
+split-inherit-working-directory = true
+
 # key bindings
 keybind = super+arrow_down=goto_split:down
 keybind = super+arrow_left=goto_split:left
